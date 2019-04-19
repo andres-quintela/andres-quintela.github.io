@@ -4,6 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Andrés Quintela
+position: Aeronautical Engineering student
 email: andres.quintelaquintanilla@gmail.com
 
 # Social links
