@@ -1,8 +1,16 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+- name: Imperial College London
+  dates: October 2016 - Present
+  qualification: MEng Aeronautical Engineering.
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Engineering degree covering the bases of aerodynamics, maths, mechanics, structures and several other fields.
+
+- name: ISAE-Supaero, Toulouse
+  dates: September 2018 - Present
+  qualification: MEng Aeronautical Engineering
+  quote: 
+    Year abroad as part of the Erasmus+ exchange program.
+  description: | # this will include new lines to allow paragraphs
+    Year abroad at one of France's most prestigious "grand écoles" and a leader in the aeronatics      field worldwide.
+    During this year I also worked half-time as a project intern on a Reinforcement Learning research group, focusing on transferability and robustness of RL algorithms applied on Atari games.s
+
