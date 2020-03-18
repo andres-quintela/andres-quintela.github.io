@@ -1,16 +1,22 @@
 # Education Template
 - name: Imperial College London
   dates: October 2016 - Present
-  qualification: MEng Aeronautical Engineering.
+  qualification: MEng Aeronautical Engineering
+  quote: Masters in Engineering with a year abroad
   description: | # this will include new lines to allow paragraphs
-    Engineering degree covering the bases of aerodynamics, maths, mechanics, structures and several other fields.
+    Engineering degree covering the bases of aerodynamics, mathematics,
+    mechanics, structures, flight mechanics, control systems and several other
+    fields. Great focus also in computing through Matlab projects, data
+    analysis and control systems simulation.
 
 - name: ISAE-Supaero, Toulouse
   dates: September 2018 - Present
   qualification: MEng Aeronautical Engineering
-  quote: 
+  quote:
     Year abroad as part of the Erasmus+ exchange program.
   description: | # this will include new lines to allow paragraphs
-    Year abroad at one of France's most prestigious "grand écoles" and a leader in the aeronatics      field worldwide.
-    During this year I also worked half-time as a project intern on a Reinforcement Learning research group, focusing on transferability and robustness of RL algorithms applied on Atari games.s
-
+    Year abroad at one of France's most prestigious "grand écoles" and a leader
+    in the aeronatics field worldwide.
+    During this year I also worked half-time as a project intern on a
+    Reinforcement Learning research group, focusing on transferability and
+    robustness of RL algorithms applied on Atari games.

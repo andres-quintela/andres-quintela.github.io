@@ -4,20 +4,22 @@ favicon: icon.ico
 
 # Personal info
 name: Andrés Quintela
-position: Aeronautical Engineering student
+title: Aeronautical Engineering student
 email: andres.quintelaquintanilla@gmail.com
+
+darkmode: true
 
 # Social links
 github_username:  andres-quintela
-linkedin_username: andres.quintelaquintanilla@gmail.com
+linkedin_username: andres-quintela
 
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: me.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: # this will include new lines to allow paragraphs
  ## Welcome to my page!
- I'm currently a third-year aeronautical engineering student and I have a great passion for computer and data science-related projects. 
+ I'm currently a final year aeronautical engineering student and I have a great passion for computer and data science-related projects.
  In this page you will be able to look at my CV in a friendlier way as well as exploring some of the projects I have developed during the previous years.
 
 

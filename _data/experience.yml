@@ -1,9 +1,31 @@
 # Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+- company: Boston Consulting Group
+  job_title: Visiting Associate
+  dates: June 2019 - September 2019
   quote: >
-   Short description of the company (optional)
+   Major global management consulting firm with offices in over 50 countries, based in the Madrid office
   description: | # this will include new lines to allow paragraphs
-    Description of role
+
+- company: SUPAERO - SuReLi Research group
+  job_title: Project Intern
+  dates: September 2018 - June 2019
+  quote: >
+   Reinforcement Learning research group based at SUPAERO in Toulouse, France
+  description: | # this will include new lines to allow paragraphs
+
+- company: Instituto de Ingenieria del conocimiento
+  job_title: Summer Intern
+  dates: June 2018 - July 2018
+  quote: >
+   Data Science and analytics consulting company based in Madrid
+  description: | # this will include new lines to allow paragraphs
+
+
+# -company: Boston Consulting Group
+#   link: Link to company (optional
+#   job_title: Job title
+#   dates: Date Range (eg. November 2016 - present)
+#   quote: >
+#    Short description of the company (optional)
+#   description: | # this will include new lines to allow paragraphs
+#     Description of role
